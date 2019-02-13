@@ -5,5 +5,6 @@ welcome to tusk folder
 kheer
 pasta
 new dish: chicken 
-
+pizza
+beans
 
